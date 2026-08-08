@@ -1,0 +1,7 @@
+| State | NS Light  | EW Light  |
+| ----- | --------- | --------- |
+| 1     | 🟢 Green  | 🔴 Red    |
+| 2     | 🟡 Yellow | 🔴 Red    |
+| 3     | 🔴 Red    | 🟢 Green  |
+| 4     | 🔴 Red    | 🟡 Yellow |
+| 5     | 🟢 Green  | 🔴 Red    |
